@@ -5,7 +5,8 @@ const Footer = () => {
   return (
     <footer style={styles.footer}>
       <h2>SARTAAJ AI</h2>
-      <p>&copy; 2025 Supernova. All rights reserved.</p>
+      <p>&copy; <a href="https://github.com/Supernova-MV" target='_blank'>2025 Supernova</a>. All rights reserved.</p>
+      
     </footer>
   );
 };
